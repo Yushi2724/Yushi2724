@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # 💫 About Me:
 Exploring new frontend technologies like React, Next.js, Tailwind CSS<br>Diving into Machine Learning and exploring AI-powered web applications<br>Looking forward to contributing to open-source projects and collaborating with developers<br>Enhancing my skills in web performance optimization, UI/UX design, and accessibility
 
